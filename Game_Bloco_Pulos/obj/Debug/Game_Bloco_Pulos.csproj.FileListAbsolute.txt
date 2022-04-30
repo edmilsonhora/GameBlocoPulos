@@ -1,0 +1,10 @@
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\obj\Debug\Game_Bloco_Pulos.Form1.resources
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\obj\Debug\Game_Bloco_Pulos.Properties.Resources.resources
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\obj\Debug\Game_Bloco_Pulos.csproj.GenerateResource.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\obj\Debug\Game_Bloco_Pulos.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\bin\Debug\Game_Bloco_Pulos.exe.config
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\bin\Debug\Game_Bloco_Pulos.exe
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\bin\Debug\Game_Bloco_Pulos.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\obj\Debug\Game_Bloco_Pulos.exe
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\obj\Debug\Game_Bloco_Pulos.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Bloco_Pulos\Game_Bloco_Pulos\obj\Debug\Game_Bloco_Pulos.csproj.AssemblyReference.cache
